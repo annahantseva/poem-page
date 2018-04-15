@@ -1,0 +1,49 @@
+body {
+    margin: 0 auto;
+    font-family: Georgia;
+    font-size: 12px;
+    background-image: url(https://s.cdpn.io/1412/beagle-paw.jpg);
+    border: 10px solid white;
+}
+
+.Beagle {
+    width: 100%;
+    height: 100%;
+    margin-top: 35px;
+    border-radius: 45px;
+}
+
+.Title {
+    position: relative;
+    top:-40px;
+    width: 300px;
+    margin-bottom: -50px;
+}
+
+.poem {
+    margin: 0 auto;
+    width: 375px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.line_3 {
+    font-size: 14px;
+    color: #5e3703;
+}
+
+.author {
+    background-color: #5e3703;
+    text-transform: uppercase;
+    color: white;
+    letter-spacing: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+.by {
+    text-transform: lowercase;
+    color: #ea8202;
+    letter-spacing: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
